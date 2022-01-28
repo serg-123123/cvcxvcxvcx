@@ -1,0 +1,16 @@
+Index: venv/repka.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/venv/repka.txt b/venv/repka.txt
+new file mode 100644
+--- /dev/null	(date 1643370489694)
++++ b/venv/repka.txt	(date 1643370489694)
+@@ -0,0 +1,5 @@
++посадил некто репку.
++выросла репка большая.
++$git config --global user.email "vkabzin@mail.ru"
++$git config --global user.name
++"sdfdgsfdgd"
+\ No newline at end of file
